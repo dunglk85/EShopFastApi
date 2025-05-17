@@ -1,0 +1,7 @@
+FastAPI
+SQLModel
+asyncpg
+uvicorn
+pydantic
+python-dotenv
+docker-compose
